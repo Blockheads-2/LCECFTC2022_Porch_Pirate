@@ -1,4 +1,5 @@
 © Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, David Becker-Peral, Joshua Sugino, Chloe Lee
+
 Our teams robot for FTC 2021-22; All source files and design files used in the robot are located here. 
 
 This is completely free to use, and if you forget attribution, no worries, it's the learning that counts! However, while we won't enforce attribution, it is mandatory that any shared copies or derivatives of this work carry the attached GPLv3 license, and are properly open source.
